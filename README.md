@@ -1,5 +1,7 @@
 Excel Marketing Campaign Analysis
+
 📌 Overview
+
 This dashboard provides a comprehensive analysis of marketing campaign performance by evaluating channel effectiveness, budget utilization, engagement, conversions, and ROI to support data-driven decision-making.
 
 📊 Tools Used
@@ -24,6 +26,10 @@ Performance Consistency Analysis
 Visual insights using bar and pie charts
 
 🧠 Skills Demonstrated
+
+
+
+
 Excel data analysis
 
 Data visualization (bar and pie charts)
